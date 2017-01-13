@@ -1,4 +1,5 @@
 Python package for dealing with all things newbler
+Spiritual successor of the pAss package - package
 ===============================
 
 version number: 0.0.1
@@ -8,6 +9,9 @@ Overview
 --------
 
 Python package for running newbler2.9, with error checks ie. mutex error. And parsing output files.
+ - Should be able to view the pileups
+ - run visualisation tools on the outputs of pAss.
+
 
 Installation / Usage
 --------------------

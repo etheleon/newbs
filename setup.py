@@ -32,6 +32,7 @@ setup(
     ],
     keywords='',
     packages=find_packages(exclude=['docs', 'tests*']),
+    scripts= ['bin/tryPileup'],
     include_package_data=True,
     author='Wesley GOI',
     install_requires=install_requires,
